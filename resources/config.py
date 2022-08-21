@@ -1,0 +1,4 @@
+TOKEN = '5404369551:AAGXDshe2IWUBo0ikE0867Ei6Ugg6qo58qQ'
+ADM_WALLET = '0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d'
+DATA = '/Users/timuragliev/Desktop/Python/Farm/database.db'
+ADMIN = ['892338763', '585587478']
